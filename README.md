@@ -9,3 +9,6 @@ just some links which I might forget
 
 ## OpenAPI reverse proxy
 `https://github.com/PawanOsman/ChatGPT`.
+
+## Image processing libraries
+`https://webkid.io/blog/image-processing-in-javascript/`.
