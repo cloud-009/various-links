@@ -5,4 +5,7 @@ just some links which I might forget
 `codepen.io/sosuke/pen/Pjoqqp`
 
 ## Dynamic scoping in angular 
-`https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/`
+`https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/`.
+
+## OpenAPI reverse proxy
+`https://github.com/PawanOsman/ChatGPT`.
