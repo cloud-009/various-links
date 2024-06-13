@@ -15,3 +15,6 @@ just some links which I might forget
 
 ## Tensor flow basics understanding
 `https://www.youtube.com/watch?v=tpCFfeUEGs8&ab_channel=DanielBourke`.
+
+## Issue with tensorflow **dllopen** error
+`https://github.com/tensorflow/tfjs/issues/8299`.
