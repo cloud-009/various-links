@@ -12,3 +12,6 @@ just some links which I might forget
 
 ## Image processing libraries
 `https://webkid.io/blog/image-processing-in-javascript/`.
+
+## Tensor flow basics understanding
+`https://www.youtube.com/watch?v=tpCFfeUEGs8&ab_channel=DanielBourke`.
