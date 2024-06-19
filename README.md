@@ -21,3 +21,6 @@ just some links which I might forget
 
 ## Residual model in deep learning & tensorflow
 `https://urakozz.medium.com/residual-model-from-scratch-with-tensorflow-js-part-1-dfee9ab8cbfe`.
+
+## CNN model for image classification
+`https://medium.com/@esrasoylu/creating-a-cnn-model-for-image-classification-with-tensorflow-49b84be8c12a`.
