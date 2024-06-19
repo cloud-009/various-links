@@ -19,5 +19,5 @@ just some links which I might forget
 ## Issue with tensorflow **dllopen** error
 `https://github.com/tensorflow/tfjs/issues/8299`.
 
-## Residual network in deep learning
+## Residual model in deep learning & tensorflow
 `https://urakozz.medium.com/residual-model-from-scratch-with-tensorflow-js-part-1-dfee9ab8cbfe`.
