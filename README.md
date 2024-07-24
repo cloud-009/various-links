@@ -24,3 +24,10 @@ just some links which I might forget
 
 ## CNN model for image classification
 `https://medium.com/@esrasoylu/creating-a-cnn-model-for-image-classification-with-tensorflow-49b84be8c12a`.
+
+
+## Translating the SPA
+`https://www.weglot.com/`
+
+## Adding dynamic translation to the SPA
+`https://support.weglot.com/article/285-can-i-use-weglot-with-a-single-page-application`
