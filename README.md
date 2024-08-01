@@ -30,4 +30,7 @@ just some links which I might forget
 `https://www.weglot.com/`
 
 ## Adding dynamic translation to the SPA
-`https://support.weglot.com/article/285-can-i-use-weglot-with-a-single-page-application`
+`https://support.weglot.com/article/285-can-i-use-weglot-with-a-single-page-application`.
+
+## Google signup credentials and steps
+`https://developers.google.com/identity/gsi/web/guides/get-google-api-clientid`.
