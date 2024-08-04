@@ -34,3 +34,6 @@ just some links which I might forget
 
 ## Google signup credentials and steps
 `https://developers.google.com/identity/gsi/web/guides/overview`.
+
+## Meta for developers regirsteration
+`https://developers.facebook.com/async/registration.`
