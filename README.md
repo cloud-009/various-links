@@ -37,3 +37,6 @@ just some links which I might forget
 
 ## Meta for developers regirsteration
 `https://developers.facebook.com/async/registration.`
+
+## Custom button for GSI identity.
+`https://medium.com/@leonardosalles/a-guide-to-custom-google-sign-in-button-e7b02c2c5e4f`.
