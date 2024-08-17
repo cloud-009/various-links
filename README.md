@@ -40,3 +40,6 @@ just some links which I might forget
 
 ## Custom button for GSI identity.
 `https://medium.com/@leonardosalles/a-guide-to-custom-google-sign-in-button-e7b02c2c5e4f`.
+
+## Upload images
+`https://pasteboard.co/`
