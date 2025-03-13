@@ -46,3 +46,6 @@ just some links which I might forget
 
 ## Restore the last scroll position
 `https://www.bennadel.com/blog/3534-restoring-and-resetting-the-scroll-position-using-the-navigationstart-event-in-angular-7-0-4.htm?ref=dsebastien.net`
+
+## What is a mixin ?? (Everyone should see this example)
+`https://javascript.info/mixins#summary`
